@@ -12,11 +12,14 @@ npm install
 /Backend need to .env file
 
 PORT=5000
-MONGODB_URI=
-JWT_SECRET=
+
+MONGODB_URI=add here mongodb url
+
+JWT_SECRET=secret_key
 
 ## Usage
 
 start the project of frontend and backend with: 
+
 npm run dev
 
